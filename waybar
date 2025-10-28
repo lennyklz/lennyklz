@@ -1,0 +1,21 @@
+* {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 14px;
+}
+
+window#waybar {
+    background-color: rgba(0, 0, 0, 0.2); /* Fundo preto transparente */
+    border-bottom: 0px solid gold; /* Linha dourada sutil */
+}
+
+#network, #battery, #clock {
+    color: gold; /* Ícones e textos dourados */
+    padding: 0 10px;
+    font-weight: bold;
+}
+
+#battery {
+    border-radius: 5px;
+    background-color: rgba(255, 215, 0, 0.1); /* Leve transparência dourada */
+    padding: 5px;
+}
