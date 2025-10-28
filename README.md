@@ -1,7 +1,7 @@
 ## Welcome
  <a href="https://github.com/lennyklz">
- <img height="180cm" width="450" src="https://github-readme-stats.vercel.app/api?username=lennyklz&show_icons=true&theme=midnight-purple"/> 
- <img height="180cm" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennyklz&langs_count=16&theme=midnight-purple&layout=compact&card_width=50"/>
+ <img height="180cm" width="350" src="https://github-readme-stats.vercel.app/api?username=lennyklz&show_icons=true&theme=midnight-purple"/> 
+ <img height="180cm" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennyklz&langs_count=16&theme=midnight-purple&layout=compact&card_width=50"/>
 </div>
 <div style="display: inline_block"><br>
  <img allign="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
