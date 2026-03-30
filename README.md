@@ -1,7 +1,7 @@
 ## Lenny | Léo Reis
  <a href="https://github.com/lennyklz">
-  
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lennyklz?cardType=github&theme=midnight-purple&fontFamily=Cairo&preferLogin=true)](https://git.io/awesome-stats-card)
+
+ <img height="180cm" width="450" src="https://awesome-github-stats.azurewebsites.net/user-stats/lennyklz?cardType=github&theme=midnight-purple&fontFamily=Cairo&preferLogin=true"/> 
 
 </div>
 <div style="display: inline_block"><br>
