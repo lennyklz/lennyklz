@@ -1,8 +1,8 @@
 ## Lenny | Léo Reis
  <a href="https://github.com/lennyklz">
- <img height="180cm" width="350" src="https://nirzak-streak-stats.vercel.app/?user=lennyklz&theme=midnight-purple&hide_border=false)%3Cbr/%3E"/> 
- <img height="180cm" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennyklz&langs_count=16&theme=midnight-purple&layout=compact&card_width=50"/>
   
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lennyklz?cardType=github&theme=midnight-purple&fontFamily=Cairo&preferLogin=true)](https://git.io/awesome-stats-card)
+
 </div>
 <div style="display: inline_block"><br>
  <img allign="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
