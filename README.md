@@ -2,7 +2,7 @@
  <a href="https://github.com/lennyklz">
 
  <img height="180cm" width="450" src="https://awesome-github-stats.azurewebsites.net/user-stats/lennyklz?cardType=github&theme=midnight-purple&fontFamily=Cairo&preferLogin=true"/> 
- <img allign="right" alt="Klauz" height="180" width="180" src="https://media.discordapp.net/attachments/1471256561463590942/1488275196308619345/image.png?ex=69eb2b09&is=69e9d989&hm=e4b6ecb8cbc55aefdc4334681fb28b87fc7403a62bb82d7488b860ee302bf4b5&=&format=webp&quality=lossless">
+ <img allign="right" alt="Klauz" height="180" width="180" src="https://cdn.discordapp.com/attachments/1471256561463590942/1488275196308619345/image.png?ex=69f07109&is=69ef1f89&hm=52d4721ad7e50036251e5320778a69452002932df7deafbdd1b009746db3c588&">
 
 </div>
 <div style="display: inline_block"><br>
