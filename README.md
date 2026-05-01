@@ -1,29 +1,32 @@
 ## Lenny | Léo Reis
- <a href="https://github.com/lennyklz">
 
- <img height="180cm" width="450" src="https://awesome-github-stats.azurewebsites.net/user-stats/lennyklz?cardType=github&theme=midnight-purple&fontFamily=Cairo&preferLogin=true"/> 
- <img allign="right" alt="Klauz" height="180" width="180" src="https://cdn.discordapp.com/attachments/1471256561463590942/1488275196308619345/image.png?ex=69f07109&is=69ef1f89&hm=52d4721ad7e50036251e5320778a69452002932df7deafbdd1b009746db3c588&">
+<a href="https://github.com/lennyklz">
 
-</div>
-<div style="display: inline_block"><br>
- <img allign="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img allign="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img allign="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img allign="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
- <img allign="center" alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img allign="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img allign="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img allign="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img allign="center" alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
- <img allign="center" alt="Nvim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg">
-</div>
-   
+| | |
+|---|---|
+| <img height="180" width="450" src="https://awesome-github-stats.azurewebsites.net/user-stats/lennyklz?cardType=github&theme=midnight-purple&fontFamily=Cairo&preferLogin=true"/> | <img alt="Klauz" height="180" width="180" src="https://cdn.discordapp.com/attachments/1471257082232574098/1488270933524480153/Klauz_Translucent_Icon.png?ex=69f5b311&is=69f46191&hm=d8cf80b19a612524c5fc0cfd40c7e9cc42d0f9193de8f4ab7ab01c4202e458aa&"> |
+
+</a>
+
 ##
 
-<div>
- <a href="https://www.instagram.com/lennyklz/"/a> <img allign="center" alt="Js" height="40cm" width="150cm" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
- <a href="https://www.linkedin.com/in/léoreis"/a> <img allign="center" alt="Js" height="40cm" width="150cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- <a href="https://x.com/Lennyjz_"/a> <img allign="center" alt="Js" height="40cm" width="150cm" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+<table><tr>
+<td><img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
+<td><img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></td>
+<td><img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
+<td><img alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"></td>
+<td><img alt="Css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+<td><img alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+<td><img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+<td><img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></td>
+<td><img alt="Arch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"></td>
+<td><img alt="Nvim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"></td>
+</tr></table>
 
- </a>
-</div>
+##
+
+<table><tr>
+<td><a href="https://www.instagram.com/lennyklz/" target="_blank"><img alt="Instagram" height="40" width="150" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></td>
+<td><a href="https://www.linkedin.com/in/léoreis" target="_blank"><img alt="LinkedIn" height="40" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+<td><a href="https://x.com/Lennyjz_/" target="_blank"><img alt="Twitter" height="40" width="150" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></td>
+</tr></table>
