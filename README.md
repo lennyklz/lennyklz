@@ -8,7 +8,6 @@
 
 </a>
 
-##
 
 <table><tr>
 <td><img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
@@ -23,7 +22,6 @@
 <td><img alt="Nvim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"></td>
 </tr></table>
 
-##
 
 <table><tr>
 <td><a href="https://www.instagram.com/lennyklz/" target="_blank"><img alt="Instagram" height="40" width="150" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></td>
