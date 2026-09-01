@@ -5,11 +5,11 @@
     <tr>
       <td>
         <img height="180" width="450"
-        src="https://cdn.discordapp.com/attachments/1471256561463590942/1488275196308619345/image.png?ex=6a9736c9&is=6a95e549&hm=50a318f22e1d6b374bd7c29f85ef35cce589f30cb651772cef6b102ddb722f33&"/>
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/lennyklz?cardType=github&theme=midnight-purple&fontFamily=Cairo&preferLogin=true"/>
       </td>
       <td>
         <img height="180" width="180"
-        src="https://cdn.discordapp.com/attachments/1471257082232574098/1488270933524480153/Klauz_Translucent_Icon.png?ex=6a8b5551&is=6a8a03d1&hm=88b6b7255795d0e4f7df30ea67a7db931723438c52822ee1ceb781e4415f8b8c&"/>
+        src="https://cdn.discordapp.com/attachments/1471256561463590942/1488275196308619345/image.png?ex=6a9736c9&is=6a95e549&hm=50a318f22e1d6b374bd7c29f85ef35cce589f30cb651772cef6b102ddb722f33&"/>
       </td>
     </tr>
   </table>
