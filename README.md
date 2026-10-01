@@ -9,7 +9,7 @@
       </td>
       <td>
         <img height="180" width="180"
-        src="https://cdn.discordapp.com/attachments/1471257082232574098/1488270933524480153/Klauz_Translucent_Icon.png?ex=6ab03f51&is=6aaeedd1&hm=3b08cbb33bc17c2ec5738f75a6f010f0cb5d3f0eebc7aa2c87126055536eb075&"/>
+        src="https://cdn.discordapp.com/attachments/1471257082232574098/1488270933524480153/Klauz_Translucent_Icon.png?ex=6abf6891&is=6abe1711&hm=16d9a6e8b3e8a185ff006fba948dc6394b67c6c58134c83c7d434491368c9d21&"/>
       </td>
     </tr>
   </table>
