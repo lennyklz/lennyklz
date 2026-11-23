@@ -5,7 +5,7 @@
     <tr>
       <td>
         <img height="180" width="450"
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/lennyklz?cardType=github&theme=midnight-purple&fontFamily=Cairo&preferLogin=true"/>
+        src="https://github-readme-stats.vercel.app/api?username=lennyklz&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
       </td>
       <td>
         <img height="180" width="180"
